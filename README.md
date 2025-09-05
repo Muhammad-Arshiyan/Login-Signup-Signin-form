@@ -10,5 +10,5 @@ A responsive and user-friendly **Login / Signup / Signin Form** built using **HT
 
 
 ## 📸 Preview
-
+<img width="1363" height="627" alt="Image" src="https://github.com/user-attachments/assets/c84b81a6-99a9-4730-b99b-2f143e8912f8" />
 
